@@ -14,13 +14,20 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 <h3>Código:</h3>
 <p>Os códigos para as equações de Maxwell foram desenvolvidas em MATLAB® R2016. Para executar a simulação basta executar o arquivo <b>wave.m</b>.</p>
 
+<h3>Animações:</h3>
 <b>:video_camera:</b> <a href="https://github.com/andrebpradof/maxwell-equations/tree/master/animacoes">Animações</a><br><br>
-<table>
+<table width="100%">
 <tr>
     <td>Exercício</td>
     <td>Ez</td>
     <td>Hx</td>
     <td>Hy</td>
+</tr>
+<tr>
+    <td>3.7</td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Ez.gif" width="33%"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hx.gif" width="33%"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hy.gif" width="33%"></td>
 </tr>
 </table>
 <hr>
