@@ -29,6 +29,27 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
     <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hx.gif"></td>
     <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hy.gif"></td>
 </tr>
+
+<tr>
+    <td>3.8 a.</td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Ez.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Hx.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Hy.gif"></td>
+</tr>
+
+<tr>
+    <td>3.8 b.</td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Ez.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Hx.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_8_b_Hy.gif"></td>
+</tr>
+
+<tr>
+    <td>3.9</td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_9_Ez.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_9_Hx.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_9_Hy.gif"></td>
+</tr>
 </table>
 <hr>
 <h3>Referências:</h3>
