@@ -4,7 +4,7 @@ clc;
 
 %% Constantes
 % 1 = Ez, 2 = Hx, 3 = Hy
-tipo_g = 3;
+tipo_g = 1;
 
 % dimensão da grade nas direções x (tam_grade_x) e y (tam_grade_y)
 tam_grade_x=200;
@@ -31,6 +31,14 @@ mu=mu_0*ones(tam_grade_x,tam_grade_y);
 %% Inicializando matrizes de condutividade elétrica e magnética
 sigma = 0*zeros(tam_grade_x,tam_grade_y);
 sigma_star=0*zeros(tam_grade_x,tam_grade_y);
+
+% sigma para o exercicio 3.8 animacao a
+%sigma = 10^(-3)*one(tam_grade_x,tam_grade_y);
+%sigma_star= 10^(-3)*ones(tam_grade_x,tam_grade_y);
+
+% sigma para o exercicio 3.8 animacao b
+%sigma = 10^(-2)*ones(tam_grade_x,tam_grade_y);
+%sigma_star=10^(-2)*ones(tam_grade_x,tam_grade_y);
 
 %% Fator de multiplicação para atualização da matriz H
 Da=((mu-0.5*dt*sigma_star)./(mu+0.5*dt*sigma_star)); 
@@ -70,7 +78,7 @@ for n=1:1:tempo_total
     colormap(hsv);
     colorbar;
     set(gca,'FontSize',14);
-    %% Adicionando as imagens à gif
+    %% Adicionando as imagens a gif
     frame = getframe(1);
     im = frame2im(frame);
     [imind,cm] = rgb2ind(im,256);

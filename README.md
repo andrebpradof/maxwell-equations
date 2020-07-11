@@ -18,12 +18,12 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 <b>:video_camera:</b> <a href="https://github.com/andrebpradof/maxwell-equations/tree/master/animacoes">Animações</a><br><br>
 <center>
 <table width="100%">
-<tr>
+<th>
     <td>Exercício</td>
     <td>Ez</td>
     <td>Hx</td>
     <td>Hy</td>
-</tr>
+</th>
 <tr>
     <td>3.7</td>
     <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Ez.gif"></td>
