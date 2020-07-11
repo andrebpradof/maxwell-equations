@@ -16,7 +16,7 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 
 <h3>Animações:</h3>
 <b>:video_camera:</b> <a href="https://github.com/andrebpradof/maxwell-equations/tree/master/animacoes">Animações</a><br><br>
-<center>
+
 <table width="100%">
 <tr>
     <th>Exercício</th>
@@ -52,7 +52,7 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
     <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.9/3_9_Hy.gif"></td>
 </tr>
 </table>
-</center>
+
 <hr>
 <h3>Referências:</h3>
 [1] A. Taflove e S. C. Hagness. Computational Electrodynamics: The Finite-Difference Time-Domain Method Norwood: Artech House, 2a. ed., 2000.
