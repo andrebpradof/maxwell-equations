@@ -15,7 +15,14 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 <p>Os códigos para as equações de Maxwell foram desenvolvidas em MATLAB® R2016. Para executar a simulação basta executar o arquivo <b>wave.m</b>.</p>
 
 <b>:video_camera:</b> <a href="https://github.com/andrebpradof/maxwell-equations/tree/master/animacoes">Animações</a><br><br>
-
+<table>
+<tr>
+    <td>Exercício</td>
+    <td>Ez</td>
+    <td>Hx</td>
+    <td>Hy</td>
+</tr>
+</table>
 <hr>
 <h3>Referências:</h3>
 [1] A. Taflove e S. C. Hagness. Computational Electrodynamics: The Finite-Difference Time-Domain Method Norwood: Artech House, 2a. ed., 2000.
