@@ -25,9 +25,9 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 </tr>
 <tr>
     <td>3.7</td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Ez.gif" width="33%"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hx.gif" width="33%"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hy.gif" width="33%"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Ez.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hx.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.7/3_7_Hy.gif"></td>
 </tr>
 </table>
 <hr>
