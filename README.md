@@ -12,7 +12,10 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 <p>O objetivo deste Projeto #3 é explorar conceitos computacionais em eletromagnetismo discretizando as equações de Maxwell e trabalhando em duas dimensões espaciais, usando como referência o Cap. 3 da Ref. [1].</p>
 
 <h3>Código:</h3>
-<p>Os códigos para as equações de Maxwell foram desenvolvidas em MATLAB® R2016.</p>
+<p>Os códigos para as equações de Maxwell foram desenvolvidas em MATLAB® R2016. Para executar a simulação basta executar o arquivo <b>wave.m</b>.</p>
+
+<b>:video_camera:</b> <a href="https://github.com/andrebpradof/maxwell-equations/tree/master/animacoes">Animações</a><br><br>
+
 <hr>
 <h3>Referências:</h3>
 [1] A. Taflove e S. C. Hagness. Computational Electrodynamics: The Finite-Difference Time-Domain Method Norwood: Artech House, 2a. ed., 2000.
