@@ -4,7 +4,7 @@ clc;
 
 %% Constantes
 % 1 = Ez, 2 = Hx, 3 = Hy
-tipo_g = 1;
+tipo_g = 3;
 
 % dimensão da grade nas direções x (tam_grade_x) e y (tam_grade_y)
 tam_grade_x=200;
@@ -29,8 +29,6 @@ epsilon=epsilon_0*ones(tam_grade_x,tam_grade_y);
 mu=mu_0*ones(tam_grade_x,tam_grade_y);
 
 %% Inicializando matrizes de condutividade elétrica e magnética
-%sigma=4e-4*ones(tam_grade_x,tam_grade_y);
-%sigma_star=4e-4*ones(tam_grade_x,tam_grade_y);
 sigma = 0*zeros(tam_grade_x,tam_grade_y);
 sigma_star=0*zeros(tam_grade_x,tam_grade_y);
 
