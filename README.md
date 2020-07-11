@@ -32,16 +32,16 @@ Mateus Fernandes Doimo - Nº USP: 10691971</br>
 
 <tr>
     <td>3.8 a.</td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Ez.gif"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Hx.gif"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Hy.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Ez_a.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Hx_a.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Hy_a.gif"></td>
 </tr>
 
 <tr>
     <td>3.8 b.</td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Ez.gif"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Hx.gif"></td>
-    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_b_Hy.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Ez_b.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Hx_b.gif"></td>
+    <td><img src="https://github.com/andrebpradof/maxwell-equations/blob/master/animacoes/3.8/3_8_Hy_b.gif"></td>
 </tr>
 
 <tr>
